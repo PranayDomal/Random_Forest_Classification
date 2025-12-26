@@ -112,7 +112,7 @@ Instead of using the default 0.5 threshold, multiple thresholds were evaluated.
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/PranayDomal/Random_Forest_Classification.git
+git clone https://github.com/PranayDomal/Telco_Customer_Churn_Prediction.git
 ```
 2. Navigate to the project directory.
 3. Open and run the Jupyter Notebook:
