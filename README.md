@@ -115,6 +115,9 @@ Instead of using the default 0.5 threshold, multiple thresholds were evaluated.
 git clone https://github.com/PranayDomal/Telco_Customer_Churn_Prediction.git
 ```
 2. Navigate to the project directory.
+```bash
+cd Telco_Customer_Churn_Prediction
+```
 3. Open and run the Jupyter Notebook:
 ```bash
 jupyter notebook Telco_Customer_Churn.ipynb
